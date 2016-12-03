@@ -1,0 +1,15 @@
+{
+  "name": "cloudflare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Girish Ramnani",
+  "license": "MIT",
+  "dependencies": {
+    "requests": "^0.1.7",
+    "validate-ip": "^1.0.1"
+  }
+}
